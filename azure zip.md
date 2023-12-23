@@ -1,5 +1,2 @@
 azure zip
-zip -r myfiles.zip . 
-
-
-TODO - redo split.py
+zip -r fra_ful.zip . 
