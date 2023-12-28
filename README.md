@@ -9,7 +9,6 @@ https://github.com/google/sentencepiece#usage-instructions
 - why ONNX ? 
 - https://cloudblogs.microsoft.com/opensource/2023/02/08/performant-on-device-inferencing-with-onnx-runtime/
 
-
 # resources to include in the dataset
 http://ellaf.huma-num.fr/corpora/textes-peuls/
 https://guillaume.roussel.info/fr/pulaar/temps
