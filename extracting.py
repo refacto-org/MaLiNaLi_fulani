@@ -6,8 +6,8 @@ from pypdf import PdfReader
 home = Path.home()
 cwd = Path.cwd()
 
-pdf_path = cwd/'to_extract'/'quran.pdf'
-txt_file = cwd/'to_extract'/'quran.txt'
+pdf_path = cwd/'to_extract'/'poemes.pdf'
+txt_file = cwd/'to_extract'/'poemes.txt'
 
 pdf_reader = PdfReader(pdf_path)
 content = [f'{pdf_reader.metadata.title}']

@@ -7,8 +7,8 @@ data:
   eval_labels_file: data/tgt_val.txt
   source_vocabulary: data/src_vocab.txt
   target_vocabulary: data/tgt_vocab.txt
-  source_tokenization: config/config_tokenization.yaml
-  target_tokenization: config/config_tokenization.yaml
+  source_tokenization: tokenizer.yaml #config/source_tokenizer_config.yaml
+  target_tokenization: tokenizer.yaml #config/target_tokenizer_config.yaml
 
 train:
   sample_buffer_size: 2000
