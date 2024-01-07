@@ -1,0 +1,3 @@
+type: SentencePieceTokenizer
+params:
+  model: /Users/mac/Desktop/refacto_ml/MaLiNaLi_fulani/fr_ff_2/data/tgt.model

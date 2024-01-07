@@ -1,0 +1,25 @@
+model_dir: run/
+
+data:
+  train_features_file: data/src_train.txt
+  train_labels_file: data/tgt_train.txt
+  eval_features_file: data/src_val.txt
+  eval_labels_file: data/tgt_val.txt
+  source_vocabulary: data/src_vocab.txt
+  target_vocabulary: data/tgt_vocab.txt
+  source_tokenization: config/tokenization/src.yml
+  target_tokenization: config/tokenization/tgt.yml
+
+train:
+  sample_buffer_size: 2000
+  save_checkpoints_steps: 1000
+
+eval:
+  steps: 3000
+  scorers: bleu
+  export_on_best: bleu
+  export_format: saved_model #ctranslate2
+  #early_stopping:
+  #  metric: bleu
+  #  min_improvement: 0.2
+  #  steps: 20 # consider increasing this drastically

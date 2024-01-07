@@ -1,0 +1,242 @@
+être disponible;hettagol
+aimer;hidugol
+commencer;futagol
+lever;verbuon
+amener;adugol
+transférer;nabhugol
+rejoindre;tawtugol
+inquiéter;hulugol
+manger;ñaamugol
+assiéger;dietugol
+appeler;noddugol
+acheter;sodugol
+créer;sonkugol
+aller;yahugol
+faire;waɗugol
+dire;inogol
+pouvoir;lamagol
+voir;hiougol
+devoir;formogol
+venir;arugol
+suivre;darugol
+parler;woulugol
+prendre;dhetugol
+croire;cikitagol
+falloir;arugolga
+passer;feyugol
+penser;midagol
+attendre;habagol
+trouver;hiugol
+laisser;acutugol
+arriver;heutugol
+donner;turnugol
+regarder;darugol
+appeler;nodugol
+partir;yougol
+mettre;wadugol
+rester;hedagol
+arrêter;daragol
+connaître;andugol
+demander;landagol
+comprendre;faamugol
+sortir;yaltugol
+entendre;nanugol
+chercher;da butugol
+aider;waallitagol
+essayer;esseyugol
+revenir;artugol
+jouer;fijugol
+finir;lanni
+perdre;majugol
+sentir;himugol
+rentrer;natugol
+vivre;wurugol
+rendre;wallingol
+tenir;jogitagol
+oublier;yejutugol
+travailler;gollugol
+entrer;natugol
+devenir;wonugol
+commencer;futagol
+payer;yobugol
+tirer;podugol
+ouvrir;udutugol
+changer;chanjugol
+excuser;accangol
+dormir;danagol
+occuper;okkipagol
+marcher;sepugol
+envoyer;addugol
+apprendre;ekitagol
+boire;yarugol
+garder;gardugol
+montrer;hollugol
+asseoir;jiodagol
+porter;addugol
+prier;zulugol
+servir;servugol
+écrire;windugol
+retrouver;hiugol
+gagner;gagnagol
+rappeler;noddutugol
+lire;jangugol
+monter;dhaugol
+réparer;wattugol
+être capable;waawugol
+maîtriser;waawugol
+courir;dogugol
+cours!;dogu
+courons;dogin
+courez;doge
+attraper;nangugol
+attrape!;nangu
+attrapons;nangin
+attrapez;nangee
+nager;fubagol
+nage!;fubbo
+nageons;fubbo ɗin
+nagez;fubbee
+voler;wujjugol
+il brigande;himo wujjude
+brigande!;wujju
+brigandez;wujje
+s'envoler;wiirugol
+vole!;wiiru
+volez!;wiiree
+oublier;yejutugol
+oublie!;yejjutu
+oubliez;yejjitee
+pleurer;wullugol
+pleure!;wullu!
+pleurons;wullin
+pleurez;wullee
+jouer;fijugol
+joue!;fiju
+jouons;fijin
+jouez;fijee
+pleuvoir;fusugol
+éclater;fusugol
+saluer;hiwragol
+Salue!;Hiwro!
+saluons;hiwro ɗin
+saluez;hiwree
+rire;jalugol
+se moquer;jalugol
+ris!;jalu
+rions;jalin
+riez;jalai
+se retirer;yaltugol
+sortir;yaltugol
+sors!;yaltu
+allons-nous en;yaltin
+sortez;yaltee
+se fâcher;monagol
+je suis fâché;mi monike
+fâche-toi!;mono
+fâchez-vous!;monee
+mouiller;ɓuɓingol
+mouille-toi;ɓuɓintino
+mouillez-vous;ɓuɓintinee
+réveiller;findingol
+réveille le;findinmo
+réveillons le;findininmo
+réveillez le;findineemo
+se réveiller;finugol
+réveille-toi;finu
+réveillons-nous;finin
+reveillez-vous;finee
+comprendre;faamugol
+comprends;faamu
+comprenons;faamin
+comprenez;faamee
+jeter;haykugol
+jette;hayku
+jetons;haykin
+jetez;haykee
+abandonner;firtugol
+annuler;firtugol
+j'abandonne;mi firti
+abandonne;firtu
+abandonnons;firtin
+abandonnez;firtee
+raconter;haalugol 
+parler;haalugol
+racontons;haalin
+racontez;haalee
+penser;miijagol
+pense;miijo
+pensons;miijoɗin
+pensez;miijee
+dire;haalugol
+dis;haalu
+disons;haalin
+dîtes;haale
+déchirer;seekugol
+déchire;seeku
+déchirons;seekin
+déchirez;seeke
+coucher au lit;wallingol
+wallin;dépose
+enseigner;jannugol
+enseigne;jaanu
+enseignons;jannen
+enseignez;jannee
+se retourner;yiltitagol
+balance moi;wiiwan
+balance le;wiiwumo
+balançons nous;wiiwoɗen
+balancez vous;wiiwe
+balancer quelque chose;bugagol
+balance;bugo
+balançons;bugoɗen
+balancez;bugee
+écarter;pasagol
+écarte toi;paso
+écartons nous;pasoɗen
+écartez vous;pasee
+s'éloigner;pottitagol
+s'éloigner;pottagol
+éloignez vous;pottitee
+déplacer;pottingol
+déplacer le;pottin mo
+écrire;winndugol
+écris;winndu
+écrivons;winnden
+écrivez;winndee
+découper;feccugol
+découpe;feccu
+découpons;feccen
+découpez;fecce
+couper;taƴugol
+coupe;taƴu
+coupons;taƴen
+coupez;taƴee
+se rappeler;mijitagol
+rappelle toi;mijito
+remémorons nous;mijitoɗen
+rappellez vous;mijitee
+rapporter;yiltutugol
+retourne toi;yiltito
+retournons nous;yiltitoɗen
+retournez vous;yiltitee
+recule;yilto
+reculons;yilten
+reculez;yiltee
+arriver;hoytugol
+arrive;hoytu
+arrivons;hoyten
+arrivez;hoytee
+afficher;hollugol
+montre;hollu
+montrons;hollen
+montrez;holle
+habiter;hoɗugol
+se marier;jonbindirgol
+marions nous;jonbindiren
+mariez vous;jonbindiree
+marier;jonbugol
+marie moi;jonmban
+marie toi;jonmbu
+marie le;jonmbu mo
+donner naissance;jibingol
+se balancer;wiiwagol

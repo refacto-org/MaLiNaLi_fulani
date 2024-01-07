@@ -4,8 +4,13 @@
 - vérifier le fonctionnement sentencepiece
 https://github.com/google/sentencepiece#usage-instructions
 
-- revoir le split dart pour séparer 70/30 ou 80/20 ;
+# android repos if stick to tf lite
+https://github.com/somyakantdash/EngToHiTranslatorApp
+https://github.com/apaar97/translate - 6 years ago
+https://github.com/viniciusmo/android-text-to-speech - 10 years ago
 
+
+# consider onnx ?
 - why ONNX ? 
 - https://cloudblogs.microsoft.com/opensource/2023/02/08/performant-on-device-inferencing-with-onnx-runtime/
 
